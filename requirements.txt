@@ -1,0 +1,7 @@
+Flask
+tensorflow
+keras
+Pillow
+numpy
+opencv-python
+gunicorn==19.7.1
